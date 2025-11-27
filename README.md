@@ -19,4 +19,20 @@ O autômato selecionado foi o **Sistema de Medição de Nível de Rio (Pluviôme
 
 A solução desenvolvida transforma o sistema tradicional em um **Sistema Ciber-Físico (CPS)** completo, com **sensores IoT, comunicação em rede, inteligência artificial preditiva e acionamento automático de infraestrutura urbana**.
 
+📚 Referências Bibliográficas
+
+Listagem das principais fontes utilizadas para embasamento técnico e conceitual do projeto:
+
+ABNT NBR ISO 37122 – Cidades e Comunidades Sustentáveis.
+
+BID – Banco Interamericano de Desenvolvimento.
+Caminho para as Smart Cities: Da Gestão Tradicional para a Cidade Inteligente.
+
+Byun et al.
+Smart City Implementation Models Based on IoT Technology.
+
+Publicações técnicas sobre Cyber-Physical Systems (CPS) aplicados a infraestruturas críticas.
+
+Pesquisas em Urban Digital Twins para modelagem, previsão e simulação urbana.
+
 ---
